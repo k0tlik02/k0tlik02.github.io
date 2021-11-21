@@ -100,3 +100,17 @@ a {
 	font-size: 30px;
 	
 }
+
+
+#img_billy {
+	height: 160px;
+}
+
+.trdic:nth-of-type(2n) {
+	background-color: #ed9ab3;
+}
+
+.anable_two_columns {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
